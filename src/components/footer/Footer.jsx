@@ -9,6 +9,10 @@ const Footer = () => {
 
                 <div className="footer__social">
 
+                <a href="https://atifzahoorarsh@gmail.com" className="footer__social-link" target='_blank'>
+                        <i class="bx bxl-gmail"></i>
+                    </a>
+
                      <a href="https://www.linkedin.com/in/atif-zahoor-3026b82a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" className="footer__social-link" target='_blank'>
                         <i class="bx bxl-linkedin"></i>
                     </a>
@@ -17,9 +21,7 @@ const Footer = () => {
                         <i class="bx bxl-whatsapp"></i>
                     </a>
 
-                    <a href="https://atifzahoorarsh@gmail.com" className="footer__social-link" target='_blank'>
-                        <i class="bx bxl-gmail"></i>
-                    </a>
+
 
                     <a href="https://atifzahoorarsh@gmail.com" className="footer__social-link" target='_blank'>
                         <i class="bx bxl-medium"></i>
